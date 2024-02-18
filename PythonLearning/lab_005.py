@@ -9,7 +9,7 @@ ANS 2 ** is kind of raise to operator i.e. 3**2 means 3*3 = 9
 
 """
 # Generating area for a circle with radius as a input from user
-import math
+
 pie_value = 3.14
 radius = float(input("Enter the radius for a circle : "))
 
