@@ -8,7 +8,7 @@ Return the same number of elements
 def Square_of_a_number(num):
     return  num
 
-results = [1,"john",3,4,5] # when we have input in list and need to call the function use map
+results = [1,2,3,4,5] # when we have input in list and need to call the function use map
 Result = list(map(Square_of_a_number,results))
 print(Result)
 
